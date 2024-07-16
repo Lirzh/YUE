@@ -1,5 +1,10 @@
 # YUE
 
-Beautify Your C++ Code with C++ Program.
+Beautify Your C++ Code with C++ Program
 
-*Please use absolute paths*
+------
+
+Add YUE.exe to the environment variables or use the path, the usage is:
+
+`YUE [your file path]` or `YUE.exe [your file path]`.
+
